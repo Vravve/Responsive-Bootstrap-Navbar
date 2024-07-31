@@ -10,7 +10,7 @@ También incluye un formulario de búsqueda y un submenú desplegable, el cual s
 [Font Awesome](https://fontawesome.com/) -> Font Awesome is a font and icon toolkit based on CSS and Less.
 
 
-** Gracias por tu interés! **
+**Gracias por tu interés!**
 
 
  
